@@ -11,7 +11,7 @@ func main() {
 	var age int = 25
 	fmt.Println("I am ", age, " years old")
 
-	var isMarried bool = true
+	var isMarried bool = false
 	fmt.Println("Am I married? ", isMarried)
 
 	var city string = "Dhaka"
