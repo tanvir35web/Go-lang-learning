@@ -36,7 +36,7 @@ func main() {
 	// 	}
 	// }
 
-	var examNumber int8 = 60
+	var examNumber int8 = 65
 
 	if examNumber >= 80 && examNumber <= 100 {
 		fmt.Println("You GOT A+ in the exam")
