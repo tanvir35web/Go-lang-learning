@@ -27,7 +27,7 @@ func main() {
 	student.getStudentDetails()
 
 	// Changing the student's grade
-	student.Grade = 13
+	student.Grade = 18
 
 	// Calling the getStudentDetails method again to see the updated grade
 	student.getStudentDetails()
